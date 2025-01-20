@@ -1,0 +1,42 @@
+body{
+    /*background-color: aqua;*/
+    background-image: url(imagenes/piscina.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    background-color: burlywood;
+    text-align: center;
+    border: 5px solid blue;
+    padding: 10px;
+}
+
+h2{
+   color: black; 
+   text-align: center;
+   font-style: italic;
+   text-decoration: underline;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+
+li{
+    /*Border naranja */
+    border: 5px solid blue;
+    /* Color de faondo blanco */
+    background-color: white;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+    font-size: 20px;
+}
+
+a{
+    color: blue;
+    font-weight: bold;
+}
